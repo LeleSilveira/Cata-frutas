@@ -1,0 +1,12 @@
+-----Configurações-----
+Dimensao da floresta:5
+Porcentagem de pedras:15
+Porcentagem de árvores:15
+Tipo das árvores:3
+Quantidade de frutas ouro:5
+Porcentagem de frutas não ouro:50
+Porcentagem de frutas bichadas:15
+Capacidade da mochila:5
+Porcentagem de melancia:15
+Porcentagem de laranja:15
+Porcentagem de abacate:15
